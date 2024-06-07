@@ -1,0 +1,4 @@
+Color Palette: #1E1514 - Carafe (Black)
+#cfcfcf - Light Grey OR #FFFFF White 
+#ECD5BB - Champagne 
+#013A20 - Forest Green
